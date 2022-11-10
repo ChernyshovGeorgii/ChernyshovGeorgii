@@ -22,5 +22,5 @@
   <img src="https://media.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
- 
+ Я учусь в МПТ <img src="https://media.giphy.com/media/TqohlojjEttBCcNci6/giphy.gif" width="30"> в Москве.
  
