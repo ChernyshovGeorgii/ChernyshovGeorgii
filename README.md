@@ -19,7 +19,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width="600" height="300"/>
 </div>
 
  
