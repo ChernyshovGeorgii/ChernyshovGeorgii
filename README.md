@@ -60,4 +60,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChernyshovGeorgii)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ChernyshovGeorgii=rompersStomper)](https://github.com/rompersStomper/github-readme-stats)
+
