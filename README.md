@@ -24,3 +24,9 @@
 ### :woman_technologist: About Me :
  Я учусь в МПТ <img src="https://media.giphy.com/media/TqohlojjEttBCcNci6/giphy.gif" width="30"> в Москве.
  
+ - :telescope: Я главный фанат Хасбика.
+ - 
+- :seedling: Хасбик крутой
+- 
+- :zap: Хасбик брат Димы Кокоцкого
+- 
