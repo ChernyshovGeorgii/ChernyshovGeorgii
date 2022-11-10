@@ -35,7 +35,7 @@
   <img src="https://komarev.com/ghpvc/?username= your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="heythere" align="center">
-  <h1>
+  <h1> 
   Приветик
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
